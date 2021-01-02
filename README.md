@@ -9,7 +9,7 @@ This is my responsive portfolio website.
   4. Projects - Details of the projects and github links.
   5. Contact - Basic details and embedded location map with contact form.
 
-# This Project is made using:
+## This Project is made using:
    1. HTML
    2. CSS
    3. JavaScript
