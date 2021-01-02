@@ -1,5 +1,5 @@
 # My Portfolio Website
-This is my portfolio website made using basic HTML, JS and Bootstrap.
+This is my responsive portfolio website.
 
  # Components
  It is a portfolio website consisting of the following sections:
@@ -8,3 +8,9 @@ This is my portfolio website made using basic HTML, JS and Bootstrap.
   3. Resume - A Collection of Educational and Project Details.
   4. Projects - Details of the projects and github links.
   5. Contact - Basic details and embedded location map with contact form.
+
+# This Project is made using:
+   1. HTML
+   2. CSS
+   3. JavaScript
+   4. JQuery
