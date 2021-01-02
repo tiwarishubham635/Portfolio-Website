@@ -15,6 +15,6 @@ This is my responsive portfolio website.
    3. JavaScript
    4. JQuery
    
- ## To run the repository on the system:
+ ### To run the repository on the system:
    1. Clone the repository using "git clone https://github.com/tiwarishubham635/Portfolio-Website.git"
    2. Open the index.html in your browser
