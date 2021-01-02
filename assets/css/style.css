@@ -234,14 +234,14 @@ h6 {
   background-attachment: fixed;
   background-size: cover;
   background-position: top;
-  background-image: url(https://wallpaperaccess.com/full/276412.jpg);
+  background-image: url(../img/bg.jpg);
   height: 100vh;
   width: 100%;
   display: grid;
   place-items: center;
   position: relative;
   perspective: 1000px;
-  animation: animation 500s linear infinite;
+  animation: animation 100s linear infinite;
 }
 
 @keyframes animation {
