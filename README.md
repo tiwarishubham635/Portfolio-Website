@@ -18,3 +18,11 @@ This is my responsive portfolio website.
  ## To run the repository on the system:
    1. Clone the repository using "git clone https://github.com/tiwarishubham635/Portfolio-Website.git"
    2. Open the index.html in your browser
+
+## Snapshots of the Website
+* ### Landing Page
+
+   ![Screenshot](Snapshots/Login.png)
+   
+
+* ### Welcome Page (Just After Login)
