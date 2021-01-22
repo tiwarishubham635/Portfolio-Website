@@ -22,8 +22,26 @@ This is my responsive portfolio website.
 ## Snapshots of the Website
 * ### Landing Page
 
-   ![Screenshot](Snapshots/Cover1.png) <br/>
+   ![Screenshot](Snapshots/Cover1.png)
    ![Screenshot](Snapshots/Cover2.png)
 
 
-* ### Welcome Page (Just After Login)
+* ### About Section
+
+   ![Screenshot](Snapshots/About.png)
+
+* ### Skills Section
+
+   ![Screenshot](Snapshots/Skills.png)
+
+* ### Resume Section
+
+   ![Screenshot](Snapshots/Resume.png)
+
+* ### Projects Section
+
+   ![Screenshot](Snapshots/Projects.png)
+
+* ### Contact Section
+
+   ![Screenshot](Snapshots/Contact.png)
